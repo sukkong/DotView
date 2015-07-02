@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DotView">
+        <attr name="android:drawableLeft"/>
+        <attr name="android:drawableRight" />
+        <attr name="dotMarginTop" format="dimension"/>
+        <attr name="dotMarginRight" format="dimension"/>
+    </declare-styleable>
+</resources>
